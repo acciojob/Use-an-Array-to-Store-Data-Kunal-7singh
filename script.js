@@ -1,2 +1,2 @@
-const youArray=['Kunal',1,2,3,true];
+const youArray=['one', 2, 'three', true, false, undefined, null];
 console.log(youArray.length);
