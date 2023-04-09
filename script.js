@@ -1,2 +1,2 @@
-const youArray=['one', 2, 'three', true, false, undefined, null];
+const youArray=['one', '2', 'three', true, 'ok', undefined, fine];
 console.log(youArray.length);
